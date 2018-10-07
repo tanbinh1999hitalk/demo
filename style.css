@@ -1,0 +1,185 @@
+#menu{
+	height: 90px;
+	background: black;
+}
+#menu1{
+	height: 90px;
+	width: 650px;	
+	float: left;
+}
+#menu1>ul>li{
+	display: inline-block;
+
+}
+#menu1>ul>li>a{
+	color: red;
+	font-family: cursive;
+	margin-left: 250px;
+	font-size: 30px;
+	text-decoration: none;
+	transition: 220ms;
+
+}
+#menu1>ul>li>a:hover{
+	color: yellow;
+}
+#menu2{
+	height: 90px;
+	width: 680px;	
+	float: right;
+}
+#menu2>ul{
+	text-align: right;
+	padding-bottom: 25px;
+	padding-top: 15px;
+	margin-right: 80px;
+}
+#menu2>ul>li{
+	display: inline-block;
+}
+#menu2>ul>li>a{
+	color: white;
+	margin-right: 25px;
+	padding-bottom:  30px;
+	text-decoration: none;
+	font-family: fantasy;
+	font-size: 20px;
+	transition: 220ms;
+}
+#menu2>ul>li>a:hover{
+	color: yellow;
+
+}
+
+#img{
+	height: 550px;
+	background: pink;
+	background-image: url(anh/a2.jpg);
+	background-size: 100% 100%;
+}
+.intro{
+	padding-top: 320px;
+	margin-left: 250px;
+}
+.introspect{
+	font-family: fantasy;
+	font-size: 45px;
+	color: white;
+}
+.bt{
+	padding-top: 30px;
+}
+button{
+	height: 40px;
+	width: 130px;
+	border:2px solid white;
+	background-color:rgba(156, 39, 176, 0.57);
+	color: white;
+	margin-left: 250px;
+}
+button:hover{
+	background-color: pink;
+	transition: 220ms;
+}
+#next{
+	height: 1550px;
+	
+}
+.next_1{
+	height: 500px;
+
+}
+#magna{
+	padding-top: 150px;
+	margin-left: 200px;
+}
+.fon_1{
+	font-family: cursive;
+	font-size: 18px;
+	margin-left: 160px;
+}
+.bh{
+	margin-left: -90px;
+}
+.next_2{
+	height: 600px;
+}
+.first{
+	width: 665px;
+	height: 600px;
+	float: right;
+
+}
+#h{
+	margin-left: 150px;
+}
+#im_1{
+	margin-left: 150px;
+}
+.fon_2{
+	font-size: 18px;
+	font-family: Arial
+Verdana;
+color: green;
+}
+.first_1{
+	width: 665px;
+	height: 600px;
+	float: left;
+}
+.next_3{
+	height: 450px;
+
+}
+.one{
+	width: 444px;
+	height: 450px;
+	float: left;
+}
+.tow{
+	width: 444px;
+	height: 450px;
+	float: left;
+
+}
+.thow{
+	width: 444px;
+	height: 450px;
+	float: left;
+}
+#im_2{
+	margin-left: 170px;
+}
+#fon_3{
+	margin-left: 47px;
+}
+.fonr{
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.bb{
+	margin-left: -150px;
+}
+#setion{
+	height: 600px;
+	background-color: red;
+	clear: both;
+}
+form{
+	margin-left: 245px;
+}
+#name{
+	height: 30px;
+	width: 750px;
+}
+#email{
+	height: 30px;
+	width: 750px;
+}
+#massege{
+	height: 120px;
+	width: 750px;
+}
+.send{
+	margin-left: -250px;
+}
